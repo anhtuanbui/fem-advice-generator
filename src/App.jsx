@@ -49,7 +49,7 @@ export class App extends Component {
                 </picture>
               </div>
               <button onClick={this.onGenerateAdvice}>
-                <img src={dice} alt="" aria-hidden="true" />
+                <img src={dice} alt="a dice" aria-hidden="true" />
               </button>
             </div>
           </div>
