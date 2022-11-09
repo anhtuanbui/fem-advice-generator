@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/fem-advice-generator/static/css/main.d9be8ec1.css",
-    "main.js": "/fem-advice-generator/static/js/main.d9da7718.js",
+    "main.css": "/fem-advice-generator/static/css/main.96ae9d0d.css",
+    "main.js": "/fem-advice-generator/static/js/main.83222e31.js",
     "static/js/787.028157ea.chunk.js": "/fem-advice-generator/static/js/787.028157ea.chunk.js",
     "index.html": "/fem-advice-generator/index.html",
     "static/media/icon-dice.svg": "/fem-advice-generator/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
     "static/media/pattern-divider-desktop.svg": "/fem-advice-generator/static/media/pattern-divider-desktop.ed9685263f6b47d21c8848f7d8bdd10e.svg",
     "static/media/pattern-divider-mobile.svg": "/fem-advice-generator/static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
-    "main.d9be8ec1.css.map": "/fem-advice-generator/static/css/main.d9be8ec1.css.map",
-    "main.d9da7718.js.map": "/fem-advice-generator/static/js/main.d9da7718.js.map",
+    "main.96ae9d0d.css.map": "/fem-advice-generator/static/css/main.96ae9d0d.css.map",
+    "main.83222e31.js.map": "/fem-advice-generator/static/js/main.83222e31.js.map",
     "787.028157ea.chunk.js.map": "/fem-advice-generator/static/js/787.028157ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9be8ec1.css",
-    "static/js/main.d9da7718.js"
+    "static/css/main.96ae9d0d.css",
+    "static/js/main.83222e31.js"
   ]
 }
